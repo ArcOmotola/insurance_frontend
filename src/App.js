@@ -2,9 +2,9 @@ import EnterPhone from "./Pages/EnterPhone";
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
+    <div>
       <EnterPhone />
-    </h1>
+    </div>
   );
 }
 
