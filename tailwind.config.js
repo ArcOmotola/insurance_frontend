@@ -6,6 +6,7 @@ module.exports = {
     extend: {
       colors: {
         backgroundColor : "#F7F9FF",
+        backgroundColor2: '#F3F5FC',
         buttonColor: '#2054D2',
       },
       height: {

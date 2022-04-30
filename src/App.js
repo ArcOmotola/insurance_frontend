@@ -1,9 +1,11 @@
 import EnterPhone from "./Pages/EnterPhone";
+import Insurance from "./Pages/Insurance";
 
 function App() {
   return (
     <div>
-      <EnterPhone />
+      {/* <EnterPhone /> */}
+      <Insurance />
     </div>
   );
 }
