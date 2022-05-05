@@ -11,7 +11,7 @@ export default function EnterPhone() {
                 <img className="object-contain w-[72px] mx-auto xl:ml-[168px]" src={aellaLogo} alt="aella-logo" />
             </div>
             <div className=" flex flex-col justify-center items-center h-full/90">
-                <div className="flex flex-col lg:flex-row xl:w-[1240px] lg:w-[1000px] xl:justify-evenly justify-center items-center ">
+                <div className="flex flex-col lg:flex-row xl:w-[1240px] lg:w-[1000px] xl:justify-evenly justify-center items-center">
                     <div className="flex flex-col  lg:w-[400px] " >
                         <div>
                             <h1 className="text-2xl md:text-3xl mb-4">Get Started in 2 steps</h1>
